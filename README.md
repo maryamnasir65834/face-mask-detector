@@ -39,7 +39,7 @@ Installation
 To run the project locally follow these simple steps.
 ###  Pre-requisites
 To run this project, you first need to install some packages
-  1. Install the requirements.txt file and run the command "python -m pip install -r requirements.txt"
+  1. Install the requirements.txt file using the command "python -m pip install -r requirements.txt"
 
 ###  Running the project
 Once the pre-requisites have been installed
