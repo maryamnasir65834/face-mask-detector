@@ -20,6 +20,8 @@ This application is able to:
   2.  Process and detect face masks
   3.  Show result accuracy 
 
+![image](https://user-images.githubusercontent.com/76821973/149188163-247b5365-dd06-4bc6-8350-20256568fb59.png)
+
 
 Built with
 ------------
