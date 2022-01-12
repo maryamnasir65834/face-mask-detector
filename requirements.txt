@@ -2,7 +2,7 @@ scipy==1.7.1
 tensorflow>=2.7
 keras>=2.7
 imutils==0.5.3
-numpy==1.18.2
+numpy==1.19.3
 opencv-python==4.5.5.62
 matplotlib==3.2.1
 brotli==1.0.7
